@@ -1,2 +1,4 @@
-# meu-crud-persona
-CRUD de Persona em Java com Banco de Dados MySQL.
+# CRUD - PERSONA
+Objetivo:
+
+Criação de um sistema que faça o CRUD de uma persona em Java com Banco de Dados MySQL.
